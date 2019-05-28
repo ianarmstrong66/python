@@ -12,4 +12,4 @@ if found:
 	for b in aChars:
 		print(b)
 else:
-	print("We still haven't found, what you're looking for")
+	print("We still haven't found, what you're looking for") 

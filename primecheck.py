@@ -7,4 +7,4 @@ for possibleCandidate in range(2,21):
 	if isPrime:
 			primelist.append(possibleCandidate)
 for a in primelist:
-	print(a)
+	print(a) 

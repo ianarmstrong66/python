@@ -28,4 +28,4 @@ def split_(directionA):
 	print(word)
 	return
 split_(0)
-split_(1)
+split_(1) 

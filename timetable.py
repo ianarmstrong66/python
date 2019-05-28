@@ -11,4 +11,4 @@ while first<=(jumpedUp):
 te = datetime.datetime.utcnow()
 print ("Started at \t",ts,"\nFinished at \t",te)
 td = te - ts
-print(td)
+print(td) 

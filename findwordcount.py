@@ -7,4 +7,4 @@ for a in range(0,len(msg)):
 		if msg[a:a+wl] == qry:
 			countWord = countWord + 1
 			a=a+wl-1
-print("The number of occurances of the word ", qry, " is ", countWord)
+print("The number of occurances of the word ", qry, " is ", countWord) 
